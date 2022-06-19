@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564757947066",
+    "project_id": "pa-mobile-bca13",
+    "storage_bucket": "pa-mobile-bca13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564757947066:android:e79fec4d0412d07e331883",
+        "android_client_info": {
+          "package_name": "com.example.pa_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564757947066-qv43nr8eo5h92n4v8i6i8ui5nh1fep0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFBqOl3kD8e8e9tPKKEVYKyqjdZhxxRsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564757947066-qv43nr8eo5h92n4v8i6i8ui5nh1fep0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
