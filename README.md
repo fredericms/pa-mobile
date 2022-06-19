@@ -1,4 +1,4 @@
-# pa_mobile
+# Aplikasi Penjualan Tiket Bioskop
 Projek Akhir Praktikum Pemrograman Mobile Kelompok 1 Kelas D Campuran 2019
 
 ## Nama Anggota Kelompok
